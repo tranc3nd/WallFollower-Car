@@ -1,0 +1,12 @@
+Dependencies for Project 'WallFollower', Target 'WallFollower': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\startup.s)(0x62468699)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "LM4F120 SETA 1" --pd "_RTE_ SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\ADCSWTrigger.c)(0x62468699)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLM4F120 -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\adcswtrigger.o --omf_browse .\adcswtrigger.crf --depend .\adcswtrigger.d)
+I (ADCSWTrigger.h)(0x62468699)
+I (tm4c123gh6pm.h)(0x62468699)
+F (.\PLL.c)(0x62468699)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLM4F120 -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x62468699)
+F (.\SimpleWallFollower.c)(0x62468699)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\LM4F_DFP\1.0.0\Device\Include-D__UVISION_VERSION="536" -D_RTE_ -DLM4F120 -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\simplewallfollower.o --omf_browse .\simplewallfollower.crf --depend .\simplewallfollower.d)
+I (ADCSWTrigger.h)(0x62468699)
+I (PLL.h)(0x62468699)
+I (tm4c123gh6pm.h)(0x62468699)

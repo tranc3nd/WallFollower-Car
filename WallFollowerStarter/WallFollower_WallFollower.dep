@@ -1,0 +1,14 @@
+Dependencies for Project 'WallFollower', Target 'WallFollower': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\startup.s)(0x624F652C)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\PLL.c)(0x624F652B)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x625E5EE1)
+F (.\ADCMultiSamples.c)(0x625E50E9)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\adcmultisamples.o --omf_browse .\adcmultisamples.crf --depend .\adcmultisamples.d)
+I (ADCMultiSamples.h)(0x625E5127)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6026047E)
+I (tm4c123gh6pm.h)(0x624F652C)
+F (.\WallFollowerStarter.c)(0x625E622F)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\..-I.\RTE\_WallFollower-IC:\Users\Jason\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include-IC:\Users\Jason\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_ -Drvmdk -DPART_LM4F120H5QR-o .\wallfollowerstarter.o --omf_browse .\wallfollowerstarter.crf --depend .\wallfollowerstarter.d)
+I (ADCMultiSamples.h)(0x625E5127)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6026047E)
+I (PLL.h)(0x625E5EE1)
+I (tm4c123gh6pm.h)(0x624F652C)
